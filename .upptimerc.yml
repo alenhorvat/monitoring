@@ -34,6 +34,8 @@ status-website:
       href: https://aceblock.com
     - title: Status
       href: /aceblock-monitoring/
+    - title: Issues
+      href: https://github.com/alenhorvat/aceblock-monitoring/issues
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
