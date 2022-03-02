@@ -6,9 +6,13 @@ sites:
   - name: AceBlock Homepage
     url: https://www.aceblock.com/
   - name: AceBlock SSI - RPC endpoint
+    method: POST
     url: https://ssi.aceblock.com/rpc
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
   - name: AceBlock SSI - IPFS endpoint
-    url: https://ssi.aceblock.com/ipfs    
+    url: https://ssi.aceblock.com/ipfs-api/api/v0/version
   - name: AceBlock Documentation
     url: https://ssi.aceblock.com/docs/
   - name: AceBlock Swagger UI
