@@ -1,7 +1,7 @@
-url: https://swagger.aceblock.com/
+url: $ACEBLOCK_SWAGGER_UI
 status: up
 code: 200
-responseTime: 297
-lastUpdated: 2022-03-17T06:54:28.606Z
+responseTime: 504
+lastUpdated: 2022-03-17T06:59:54.556Z
 startTime: Wed Mar 02 2022 13:38:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
