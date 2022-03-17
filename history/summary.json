@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 2580,
-    "timeDay": 2908,
-    "timeWeek": 2299,
-    "timeMonth": 2580,
-    "timeYear": 2580,
+    "time": 2610,
+    "timeDay": 3046,
+    "timeWeek": 2396,
+    "timeMonth": 2610,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2022-03-09": 18,
       "2022-03-05": 25
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 471,
-    "timeDay": 369,
-    "timeWeek": 403,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 466,
+    "timeDay": 367,
+    "timeWeek": 398,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2022-03-02": 31
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 150,
-    "timeDay": 108,
-    "timeWeek": 121,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 149,
+    "timeDay": 109,
+    "timeWeek": 120,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2022-03-02": 31
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 111,
-    "timeWeek": 123,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 142,
+    "timeDay": 112,
+    "timeWeek": 122,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 346,
-    "timeDay": 324,
-    "timeWeek": 308,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "time": 344,
+    "timeDay": 319,
+    "timeWeek": 307,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2022-03-17": 39
     }
@@ -109,11 +109,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 107,
-    "timeWeek": 119,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 108,
+    "timeWeek": 118,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "R-HTTP-IP-SWAGGER-UI",
+    "url": "$RHTTPIPSWAGGERUI",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "r-http-ip-swagger-ui",
+    "status": "down",
+    "uptime": "16.89%",
+    "uptimeDay": "16.89%",
+    "uptimeWeek": "16.89%",
+    "uptimeMonth": "16.89%",
+    "uptimeYear": "16.89%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   }
 ]
