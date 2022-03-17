@@ -19,7 +19,7 @@ sites:
     url: https://swagger.aceblock.com/
   - name: Load balancer Gen-I
     check: "tcp-ping"
-    url: 91.240.216.129
+    url: $LB_GEN_I
     port: 443
   - name: R-HTTP-IP-SWAGGER-UI
     url: $RHTTPIPSWAGGERUI
