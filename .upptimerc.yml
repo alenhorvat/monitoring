@@ -22,7 +22,7 @@ sites:
     url: $LB_GEN_I
     port: 443
   - name: R-HTTP-IP-SWAGGER-UI
-    url: $RHTTPIPSWAGGERUI
+    url: $R_HTTP_IP_SWAGGER_UI
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
