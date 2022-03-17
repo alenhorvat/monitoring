@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 2610,
-    "timeDay": 3046,
-    "timeWeek": 2396,
-    "timeMonth": 2610,
-    "timeYear": 2610,
+    "time": 2620,
+    "timeDay": 3023,
+    "timeWeek": 2437,
+    "timeMonth": 2620,
+    "timeYear": 2620,
     "dailyMinutesDown": {
       "2022-03-09": 18,
       "2022-03-05": 25
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 466,
-    "timeDay": 367,
-    "timeWeek": 398,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "time": 462,
+    "timeDay": 368,
+    "timeWeek": 395,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2022-03-02": 31
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 149,
-    "timeDay": 109,
-    "timeWeek": 120,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 147,
+    "timeDay": 110,
+    "timeWeek": 119,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-03-02": 31
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 112,
+    "time": 141,
+    "timeDay": 113,
     "timeWeek": 122,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -89,18 +89,18 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 344,
-    "timeDay": 319,
-    "timeWeek": 307,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "time": 342,
+    "timeDay": 315,
+    "timeWeek": 306,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2022-03-17": 39
     }
   },
   {
     "name": "Load balancer Gen-I",
-    "url": "91.240.216.129",
+    "url": "$LB_GEN_I",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "load-balancer-gen-i",
     "status": "up",
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 108,
+    "time": 130,
+    "timeDay": 109,
     "timeWeek": 118,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "r-http-ip-swagger-ui",
     "status": "down",
-    "uptime": "5.74%",
-    "uptimeDay": "5.74%",
-    "uptimeWeek": "5.74%",
-    "uptimeMonth": "5.74%",
-    "uptimeYear": "5.74%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 6
     }
   }
 ]
