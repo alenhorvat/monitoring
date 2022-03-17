@@ -83,19 +83,19 @@
     "url": "https://swagger.aceblock.com/",
     "icon": "https://favicons.githubusercontent.com/swagger.aceblock.com",
     "slug": "ace-block-swagger-ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 356,
-    "timeWeek": 308,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 347,
+    "timeDay": 322,
+    "timeWeek": 305,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 39
     }
   },
   {
