@@ -23,6 +23,8 @@ sites:
     port: 443
   - name: R-HTTP-IP-SWAGGER-UI
     url: $R_HTTP_IP_SWAGGER_UI
+  - name: R_HTTPS_HOSTNAME_SWAGGER_UI
+    url: $R_HTTPS_HOSTNAME_SWAGGER_UI
   - name: R-HOME
     url: $R_HOME
 
