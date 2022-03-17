@@ -1,6 +1,6 @@
 # Change these first
 owner: alenhorvat # Your GitHub organization or username, where this repository lives
-repo: aceblock-monitoring # The name of this repository
+repo: monitoring # The name of this repository
 
 sites:
   - name: AceBlock Homepage
@@ -30,12 +30,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /monitoring
-  logoUrl: https://www.aceblock.com/wp-content/uploads/2019/07/cropped-favicon2-32x32.png
-  name: AceBlock Upptime Services Monitoring
-  introTitle: "**AceBlock** status page"
+  name: AH Upptime Services Monitoring
+  introTitle: "Status page"
   navbar:
-    - title: AceBlock
-      href: https://aceblock.com
     - title: Status
       href: /monitoring/
     - title: Issues
