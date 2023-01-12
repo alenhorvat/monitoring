@@ -1,7 +1,7 @@
 url: $R_HTTPS_HOSTNAME_SWAGGER_UI
 status: down
 code: 404
-responseTime: 229
-lastUpdated: 2023-01-11T23:08:56.604Z
+responseTime: 211
+lastUpdated: 2023-01-12T23:09:55.684Z
 startTime: Thu Mar 17 2022 12:12:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
