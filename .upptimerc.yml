@@ -25,8 +25,14 @@ sites:
     url: $VC_HOME
   - name: NFT
     url: $NFT
-  - name: ID
+  - name: NID-home
     url: $XID
+  - name: NID-I
+    url: $NIDI
+  - name: NID-W
+    url: $NIDW
+  - name: NID-P
+    url: $NIDP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
