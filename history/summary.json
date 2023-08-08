@@ -12,7 +12,7 @@
     "uptimeYear": "99.91%",
     "time": 2891,
     "timeDay": 1694,
-    "timeWeek": 3758,
+    "timeWeek": 3623,
     "timeMonth": 3274,
     "timeYear": 2779,
     "dailyMinutesDown": {
@@ -156,11 +156,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-swagger-ui",
     "status": "up",
-    "uptime": "87.34%",
+    "uptime": "87.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.81%",
+    "uptimeYear": "92.91%",
     "time": 367,
     "timeDay": 307,
     "timeWeek": 367,
@@ -226,9 +226,9 @@
     "url": "$VC_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "verify-city",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -238,6 +238,7 @@
     "timeMonth": 452,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-06-26": 42,
       "2023-02-01": 55
     }
@@ -276,7 +277,7 @@
     "uptimeYear": "99.72%",
     "time": 2423,
     "timeDay": 3558,
-    "timeWeek": 2581,
+    "timeWeek": 2480,
     "timeMonth": 2167,
     "timeYear": 2423,
     "dailyMinutesDown": {
