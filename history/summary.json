@@ -159,7 +159,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.66%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "96.35%",
+    "uptimeYear": "96.36%",
     "time": 379,
     "timeDay": 364,
     "timeWeek": 857,
@@ -354,19 +354,19 @@
     "url": "$NIDMV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-mv",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1911,
-    "timeDay": 1911,
-    "timeWeek": 1911,
-    "timeMonth": 1911,
-    "timeYear": 1911,
+    "status": "up",
+    "uptime": "97.27%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
+    "time": 1382,
+    "timeDay": 1382,
+    "timeWeek": 1382,
+    "timeMonth": 1382,
+    "timeYear": 1382,
     "dailyMinutesDown": {
-      "2023-08-21": 0
+      "2023-08-21": 13
     }
   }
 ]
