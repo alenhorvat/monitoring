@@ -1,7 +1,7 @@
 url: $ACEBLOCK_HOME
-status: down
-code: 521
-responseTime: 285
-lastUpdated: 2023-10-03T08:45:16.672Z
+status: up
+code: 200
+responseTime: 6274
+lastUpdated: 2023-10-03T08:51:33.052Z
 startTime: 2022-03-02T13:38:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
