@@ -1,7 +1,7 @@
 url: $NIDP
-status: down
-code: 503
-responseTime: 3507
-lastUpdated: 2023-10-13T05:24:23.583Z
+status: up
+code: 200
+responseTime: 477
+lastUpdated: 2023-10-13T05:36:30.651Z
 startTime: 2023-06-16T21:49:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
