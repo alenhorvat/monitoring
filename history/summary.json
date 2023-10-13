@@ -302,19 +302,19 @@
     "url": "$NIDP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-p",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
-    "time": 489,
-    "timeDay": 1580,
-    "timeWeek": 957,
-    "timeMonth": 556,
-    "timeYear": 489,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 512,
+    "timeDay": 1884,
+    "timeWeek": 1161,
+    "timeMonth": 637,
+    "timeYear": 512,
     "dailyMinutesDown": {
-      "2023-10-13": 64
+      "2023-10-13": 56
     }
   },
   {
