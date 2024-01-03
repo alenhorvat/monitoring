@@ -1,7 +1,7 @@
 url: $SKILLJOT
-status: up
-code: 200
-responseTime: 541
-lastUpdated: 2024-01-02T23:08:55.262Z
+status: down
+code: 503
+responseTime: 3322
+lastUpdated: 2024-01-03T20:27:16.107Z
 startTime: 2023-10-25T20:46:37.383Z
 generator: Upptime <https://github.com/upptime/upptime>
