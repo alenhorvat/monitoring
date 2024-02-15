@@ -1,7 +1,7 @@
 url: $ACEBLOCK_SWAGGER_UI
-status: down
-code: 523
-responseTime: 2813
-lastUpdated: 2024-02-15T13:55:17.908Z
+status: up
+code: 200
+responseTime: 436
+lastUpdated: 2024-02-15T16:24:03.597Z
 startTime: 2022-03-02T13:38:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
