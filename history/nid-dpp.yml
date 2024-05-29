@@ -1,7 +1,7 @@
 url: $NIDDPP
-status: down
-code: 503
-responseTime: 3390
-lastUpdated: 2024-05-29T12:27:27.223Z
+status: up
+code: 200
+responseTime: 382
+lastUpdated: 2024-05-29T13:19:30.915Z
 startTime: 2023-08-20T21:57:59.024Z
 generator: Upptime <https://github.com/upptime/upptime>
