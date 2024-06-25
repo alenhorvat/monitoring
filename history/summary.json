@@ -29,9 +29,9 @@
     "url": "$ACEBLOCK_SSI_RPC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-rpc-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -41,6 +41,7 @@
     "timeMonth": 468,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2024-06-25": 0,
       "2023-10-29": 79,
       "2023-06-29": 47
     }
@@ -50,9 +51,9 @@
     "url": "$ACEBLOCK_SSI_IPFS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-ipfs-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -62,6 +63,7 @@
     "timeMonth": 137,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2024-06-25": 0,
       "2023-10-29": 79,
       "2023-06-29": 47
     }
@@ -71,9 +73,9 @@
     "url": "$ACEBLOCK_SSI_DOCS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -83,6 +85,7 @@
     "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2024-06-25": 0,
       "2023-10-29": 79,
       "2023-06-29": 47
     }
@@ -93,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-swagger-ui",
     "status": "up",
-    "uptime": "91.87%",
+    "uptime": "91.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -339,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "skilljot",
     "status": "up",
-    "uptime": "87.83%",
+    "uptime": "87.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.83%",
+    "uptimeYear": "87.88%",
     "time": 779,
     "timeDay": 369,
     "timeWeek": 381,
