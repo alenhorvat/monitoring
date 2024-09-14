@@ -1,7 +1,7 @@
 url: $XID
-status: down
-code: 401
-responseTime: 441
-lastUpdated: 2024-09-14T04:48:59.993Z
+status: up
+code: 200
+responseTime: 620
+lastUpdated: 2024-09-14T04:55:28.702Z
 startTime: 2023-06-16T21:49:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
