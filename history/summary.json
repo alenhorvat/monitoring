@@ -178,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-home",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "55.18%",
-    "uptimeWeek": "69.78%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.47%",
+    "uptimeDay": "50.07%",
+    "uptimeWeek": "69.37%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "99.33%",
     "time": 1199,
     "timeDay": 457,
     "timeWeek": 517,
     "timeMonth": 512,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2024-09-19": 643,
+      "2024-09-20": 67,
+      "2024-09-19": 650,
       "2024-09-18": 689,
       "2024-09-17": 278,
       "2024-09-16": 377,
@@ -310,8 +311,7 @@
       "2024-01-23": 454,
       "2024-01-22": 799,
       "2024-01-20": 19,
-      "2023-09-22": 341,
-      "2023-09-21": 743
+      "2023-09-22": 341
     }
   },
   {
