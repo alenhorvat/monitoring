@@ -177,14 +177,14 @@
     "url": "$XID",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-home",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "45.66%",
-    "uptimeWeek": "63.13%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "46.68%",
+    "uptimeWeek": "63.43%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "99.30%",
     "time": 1156,
-    "timeDay": 460,
+    "timeDay": 463,
     "timeWeek": 501,
     "timeMonth": 506,
     "timeYear": 994,
@@ -195,7 +195,7 @@
       "2024-09-18": 689,
       "2024-09-17": 278,
       "2024-09-16": 377,
-      "2024-09-15": 254
+      "2024-09-15": 223
     }
   },
   {
