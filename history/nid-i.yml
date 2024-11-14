@@ -1,7 +1,7 @@
 url: $NIDI
-status: down
-code: 503
-responseTime: 3469
-lastUpdated: 2024-11-14T09:39:28.797Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2024-11-14T10:15:19.949Z
 startTime: 2023-06-16T21:49:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
