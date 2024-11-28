@@ -144,19 +144,19 @@
     "url": "$VC_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "verify-city",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 183,
-    "timeWeek": 241,
-    "timeMonth": 644,
-    "timeYear": 485,
+    "time": 474,
+    "timeDay": 668,
+    "timeWeek": 342,
+    "timeMonth": 659,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-11-28": 0
+      "2024-11-28": 6
     }
   },
   {
