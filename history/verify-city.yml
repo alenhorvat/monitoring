@@ -1,7 +1,7 @@
 url: $VC_HOME
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-13T21:38:03.272Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2024-12-13T21:44:18.531Z
 startTime: 2023-02-01T06:03:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
