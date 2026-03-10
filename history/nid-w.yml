@@ -1,7 +1,7 @@
 url: $NIDW
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2026-03-09T23:20:22.095Z
+status: down
+code: 503
+responseTime: 3560
+lastUpdated: 2026-03-10T11:08:31.872Z
 startTime: 2023-06-16T21:49:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
