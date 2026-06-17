@@ -4,17 +4,17 @@
     "url": "$ACEBLOCK_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "99.30%",
-    "time": 3217,
-    "timeDay": 1706,
-    "timeWeek": 2601,
-    "timeMonth": 3117,
-    "timeYear": 3242,
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "90.81%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.28%",
+    "time": 3214,
+    "timeDay": 1984,
+    "timeWeek": 2598,
+    "timeMonth": 3106,
+    "timeYear": 3238,
     "dailyMinutesDown": {
       "2025-06-20": 102,
       "2025-06-27": 19,
@@ -71,7 +71,7 @@
       "2026-06-14": 94,
       "2026-06-15": 547,
       "2026-06-16": 80,
-      "2026-06-17": 1
+      "2026-06-17": 120
     }
   },
   {
@@ -91,7 +91,7 @@
     "timeMonth": 431,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-06-17": 1211,
+      "2026-06-17": 1332,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -463,10 +463,10 @@
     "url": "$ACEBLOCK_SSI_IPFS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-ipfs-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 162,
@@ -476,7 +476,8 @@
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-04-19": 901,
-      "2026-04-18": 104
+      "2026-04-18": 104,
+      "2026-06-17": 1
     }
   },
   {
@@ -484,20 +485,21 @@
     "url": "$ACEBLOCK_SSI_DOCS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 165,
+    "time": 166,
     "timeDay": 340,
     "timeWeek": 439,
     "timeMonth": 435,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-04-19": 901,
-      "2026-04-18": 104
+      "2026-04-18": 104,
+      "2026-06-17": 1
     }
   },
   {
@@ -559,7 +561,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 1212,
+      "2026-06-17": 1332,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -995,11 +997,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-w",
     "status": "down",
-    "uptime": "89.16%",
+    "uptime": "89.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.87%",
+    "uptimeYear": "67.85%",
     "time": 1101,
     "timeDay": 3302,
     "timeWeek": 3423,
@@ -1027,7 +1029,7 @@
       "2025-09-13": 169,
       "2025-11-13": 474,
       "2025-11-12": 167,
-      "2026-06-17": 1212,
+      "2026-06-17": 1332,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -1156,7 +1158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nid-dpp",
     "status": "up",
-    "uptime": "83.39%",
+    "uptime": "83.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
@@ -1379,7 +1381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 1212,
+      "2026-06-17": 1332,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
